@@ -1,92 +1,92 @@
 const predefinedQuestions = [
-
     {
         keywords: ["future", "evolve", "progression", "transform", "turn into"],
         answer:
-            "Yes, prediabetes can progress to type 2 diabetes if left unmanaged. Studies show that 15–30% of people with prediabetes develop diabetes within five years. However, progression is not inevitable. By adopting a healthy lifestyle—regular exercise, a balanced diet, weight loss, and stress management—you can improve insulin sensitivity and lower your blood sugar levels back to normal. Early detection is key, as prediabetes does not always present symptoms, making routine checkups essential."
+            "Prediabetes is a serious condition that, if left unmanaged, can progress to type 2 diabetes. Approximately 15-30% of individuals with prediabetes develop type 2 diabetes within five years. However, it's important to understand that progression is not inevitable. By adopting a proactive approach to your health, you can significantly reduce your risk. This involves making significant lifestyle changes, including regular physical activity, a balanced diet, weight management, and stress reduction. These changes can improve your body's insulin sensitivity and help restore normal blood sugar levels. Early detection is crucial, as prediabetes often presents with no noticeable symptoms. Therefore, regular health check-ups are essential to identify and address the condition before it progresses."
     },
     {
         keywords: ["serious", "severity", "severity", "seriousness", "concern", "risk", "grave", "worried", "warn"],
         answer:
-            "While prediabetes is not as severe as diabetes, it is a serious condition that should not be ignored. It serves as a warning sign that your body is struggling to regulate blood sugar. Unchecked prediabetes can lead to type 2 diabetes, cardiovascular disease, nerve damage, kidney disease, and other complications. However, with lifestyle interventions, most people can reverse prediabetes and significantly reduce the associated risks."
+            "While prediabetes may not be as severe as type 2 diabetes, it is a serious health condition that should not be overlooked. It serves as a warning sign that your body is struggling to regulate blood sugar effectively. If left untreated, prediabetes can lead to a cascade of health problems, including type 2 diabetes, heart disease, stroke, nerve damage, kidney disease, and other complications. However, the good news is that prediabetes is often reversible. By implementing significant lifestyle changes, such as regular exercise, a healthy diet, and weight management, most individuals can reverse prediabetes and significantly reduce their risk of developing more serious health conditions."
     },
     {
         keywords: ["prevalance", "common"],
         answer:
-            "Prediabetes is extremely common, affecting millions worldwide. According to the International Diabetes Federation, approximately 470 million adults globally have impaired glucose tolerance, a precursor to prediabetes. In the U.S. alone, more than 88 million adults—over one-third of the population—have prediabetes, though many remain undiagnosed. The condition is becoming increasingly prevalent due to rising obesity rates, sedentary lifestyles, and poor dietary habits."
+            "Prediabetes is an alarmingly common condition affecting millions of people worldwide. According to the International Diabetes Federation, approximately 470 million adults globally have impaired glucose tolerance, a precursor to prediabetes. In the United States alone, over 88 million adults, representing more than one-third of the population, have prediabetes, many of whom remain undiagnosed. The increasing prevalence of prediabetes is largely attributed to rising rates of obesity, sedentary lifestyles, and poor dietary habits. It's crucial to recognize the widespread nature of this condition and take proactive steps to prevent its progression."
     },
     {
-        keywords: ["symptoms", "signs", 'asymptomatic'],
+        keywords: ["symptoms", "signs", "asymptomatic"],
         answer:
-            "Prediabetes is often asymptomatic, meaning most people do not experience noticeable symptoms. However, subtle signs may include: Increased thirst, Frequent urination, Fatigue, Blurred vision, Dark patches of skin, particularly on the neck or underarms (acanthosis nigricans). Because symptoms are rare or mild, many people discover they have prediabetes only after routine blood tests. Regular health screenings are critical for early detection."
+            "Prediabetes is often referred to as a 'silent condition' because it typically presents with no noticeable symptoms. However, there may be subtle signs that could indicate the presence of prediabetes. These include increased thirst, frequent urination, fatigue, blurred vision, and the development of dark patches of skin, particularly on the neck or underarms, known as acanthosis nigricans. Due to the lack of overt symptoms, many individuals remain unaware of their condition until it's detected during a routine blood test. Therefore, regular health screenings are essential for early detection and timely intervention."
     },
     {
-        keywords: ["causes", 'reason', 'triggers', 'contribute'],
+        keywords: ["causes", "reason", "triggers", "contribute"],
         answer:
-            "Prediabetes is often asymptomatic, meaning most people do not experience noticeable symptoms. However, subtle signs may include: Increased thirst, Frequent urination, Fatigue, Blurred vision, Dark patches of skin, particularly on the neck or underarms (acanthosis nigricans). Because symptoms are rare or mild, many people discover they have prediabetes only after routine blood tests. Regular health screenings are critical for early detection."
+            "Prediabetes is a complex condition with multiple contributing factors. The primary causes of prediabetes include insulin resistance, a condition where the body's cells become less responsive to insulin, and impaired insulin secretion, where the pancreas doesn't produce enough insulin. These factors often stem from lifestyle choices, such as a sedentary lifestyle, poor diet, and excess weight. Additionally, genetics and family history can play a role in increasing susceptibility to prediabetes. Understanding the underlying causes of prediabetes is essential for developing effective prevention and management strategies."
     },
     {
         keywords: ["diagnosed", "diagnosis", "how to check"],
         answer:
-            "Prediabetes is typically diagnosed using blood tests such as the A1C test, fasting blood glucose test, or an oral glucose tolerance test. These tests measure your blood sugar levels to determine if they fall within the prediabetic range."
+            "Prediabetes is typically diagnosed through blood tests that measure blood sugar levels. The most common tests used for diagnosis include:\
+        A1C test: This test measures your average blood sugar level over the past two to three months.\
+        Fasting plasma glucose (FPG) test:** This test measures your blood sugar level after an overnight fast.\
+        Oral glucose tolerance test (OGTT):** This test measures your blood sugar level before and two hours after drinking a sugary liquid.\
+        If your blood sugar levels fall within the prediabetic range, your healthcare provider will likely discuss lifestyle modifications and may recommend additional testing to monitor your condition."
     },
     {
         keywords: ["reversible", "reverse", "cure"],
         answer:
-            "Yes, prediabetes can often be reversed through healthy lifestyle changes. By eating a balanced diet, staying physically active, and maintaining a healthy weight, you can lower your blood sugar levels and potentially return them to normal ranges."
+            "The good news is that prediabetes is often reversible through significant lifestyle changes. By adopting a healthy diet, engaging in regular physical activity, and maintaining a healthy weight, many individuals can lower their blood sugar levels and return them to a normal range. These changes can also significantly reduce the risk of progressing to type 2 diabetes and other related health complications. However, it's important to note that the extent to which prediabetes can be reversed may vary from person to person. Regular monitoring of blood sugar levels and ongoing commitment to a healthy lifestyle are crucial for maintaining long-term health."
     },
     {
         keywords: ["avoid", "bad foods"],
         answer:
-            "It's best to avoid foods with a high glycemic index, such as white bread, white rice, sugary snacks, and processed foods. These can cause blood sugar spikes, making it harder to manage prediabetes."
+            "To effectively manage prediabetes, it's essential to limit your intake of foods with a high glycemic index. These foods, such as white bread, white rice, sugary snacks, and processed foods, can cause rapid spikes in blood sugar levels, making it difficult to maintain stable blood sugar control. By avoiding these foods and opting for healthier alternatives, you can significantly improve your blood sugar management and reduce your risk of complications."
     },
     {
         keywords: ["foods", "what to eat", "diet"],
         answer:
-            "The ideal diet for prediabetes emphasizes whole, nutrient-dense foods:\
-            Vegetables: Non-starchy options like spinach, broccoli, and bell peppers.\
-            Whole Grains: Quinoa, brown rice, and oats.\
-            Healthy Fats: Avocados, nuts, and olive oil.\
-            Proteins: Lean meats, fish, eggs, beans, and tofu.\
-            Low-Glycemic Fruits: Berries, apples, and citrus fruits.\
-            Eating balanced meals with controlled portions helps regulate blood sugar levels and supports weight management."
+            "A healthy diet plays a crucial role in managing prediabetes. The ideal diet emphasizes whole, nutrient-dense foods that promote blood sugar stability and overall health. Here are some food groups to incorporate into your diet:\
+        Vegetables: Non-starchy vegetables like spinach, broccoli, and bell peppers are excellent sources of fiber and essential nutrients.\
+        Whole Grains: Whole grains such as quinoa, brown rice, and oats provide sustained energy and help regulate blood sugar levels.\
+        Healthy Fats: Incorporate healthy fats from sources like avocados, nuts, and olive oil to support heart health and overall well-being.\
+        Lean Proteins: Lean proteins, including fish, poultry, beans, and tofu, are essential for building and repairing tissues.\
+        Low-Glycemic Fruits: Berries, apples, and citrus fruits are low in sugar and provide essential vitamins and minerals.\
+        By consuming a balanced diet with controlled portions, you can effectively manage your blood sugar levels and support weight management."
     },
     {
         keywords: ["exercise", "workout", "activity"],
         answer:
-            "Regular physical activity, like brisk walking, swimming, or strength training, can significantly help manage blood sugar levels. Aim for at least 30 minutes of moderate exercise five days a week."
+            "Regular physical activity is a cornerstone of prediabetes management. Aim for at least 30 minutes of moderate-intensity exercise, such as brisk walking, swimming, or cycling, most days of the week. Physical activity helps improve insulin sensitivity, lowers blood sugar levels, and promotes weight loss. Additionally, incorporating strength training exercises, such as weightlifting or resistance band workouts, can help build muscle mass, which can further enhance insulin sensitivity. Consult your healthcare provider to determine the most suitable exercise regimen for your individual needs and fitness level."
     },
     {
         keywords: ["stress", "stress cause"],
         answer:
-            "Chronic stress can lead to hormonal imbalances that affect insulin sensitivity, increasing your risk of developing prediabetes. Stress management techniques like mindfulness and deep breathing can be helpful."
+            "Chronic stress can significantly impact blood sugar control. When you're stressed, your body releases stress hormones, such as cortisol, which can elevate blood sugar levels and impair insulin sensitivity. To manage stress effectively, consider incorporating stress reduction techniques into your daily routine. These may include mindfulness meditation, deep breathing exercises, yoga, or spending time in nature. Engaging in activities you enjoy can also help alleviate stress and promote overall well-being."
     },
     {
         keywords: ["sleep", "rest"],
         answer:
-            "Inadequate sleep can increase your risk of insulin resistance. Aim for 7-8 hours of quality sleep each night to support healthy blood sugar levels and overall well-being."
+            "Adequate sleep is essential for optimal health, including blood sugar regulation. When you don't get enough sleep, your body's hormone levels can become imbalanced, leading to increased insulin resistance and higher blood sugar levels. Aim for 7-8 hours of quality sleep each night to support your body's natural rhythms and improve your overall health. Establish a regular sleep schedule, create a calming bedtime routine, and optimize your sleep environment to promote restful sleep."
     },
     {
         keywords: ["medications", "drugs", "pills"],
         answer:
-            "While there are medications like metformin that may be prescribed for prediabetes, lifestyle changes are often the first and most effective treatment option. Consult your doctor for personalized advice."
+            "While lifestyle modifications are often the first line of treatment for prediabetes, in some cases, medication may be recommended. Metformin is a commonly prescribed medication that can help improve insulin sensitivity and lower blood sugar levels. However, it's important to consult with your healthcare provider to determine the most appropriate treatment plan for your individual needs. They will consider factors such as your blood sugar levels, overall health, and lifestyle habits to make personalized recommendations."
     },
     {
         keywords: ["define", "meaning", "what is"],
         answer:
-            "Prediabetes is a condition where your blood sugar levels are higher than normal but not high enough to be classified as type 2 diabetes. It indicates that your body is starting to have trouble using insulin effectively, a process called insulin resistance. Over time, this can lead to type 2 diabetes and increase the risk of heart disease and stroke. However, prediabetes is a reversible condition if addressed early through lifestyle changes such as diet, exercise, and weight management. Understanding prediabetes is essential because early intervention can prevent long-term complications."
+            "Prediabetes is a condition characterized by elevated blood sugar levels that are higher than normal but not yet high enough to be classified as type 2 diabetes. It signifies that your body is beginning to struggle with insulin regulation, a condition known as insulin resistance. Insulin is a hormone produced by the pancreas that helps transport glucose, the body's primary source of energy, from the bloodstream into cells. In individuals with prediabetes, the body's cells become less responsive to insulin, leading to a buildup of glucose in the blood. Over time Over time, this can lead to type 2 diabetes and increase the risk of heart disease and stroke. However, prediabetes is a reversible condition if addressed early through lifestyle changes such as diet, exercise, and weight management. Understanding prediabetes is essential because early intervention can prevent long-term complications."
     },
     {
         keywords: ["diabetes", "difference", "stages"],
-        answer:
-            "Prediabetes and diabetes are part of the same spectrum of glucose intolerance but differ in severity:\
-            Prediabetes: Blood sugar levels are elevated but remain within the range of 100–125 mg/dL (fasting) or 5.7–6.4% (HbA1C). It signals the beginning of insulin resistance. \
-            Diabetes: Blood sugar levels are higher than 126 mg/dL (fasting) or above 6.5% (HbA1C), indicating that the body is no longer regulating blood sugar effectively. \
-            The key difference lies in reversibility. While diabetes is chronic, prediabetes offers an opportunity for prevention with timely action."
+        answer: "Prediabetes and diabetes are part of the same spectrum of glucose intolerance but differ in severity:\
+                Prediabetes: Blood sugar levels are elevated but remain within the range of 100–125 mg/dL (fasting) or 5.7–6.4% (HbA1C). It signals the beginning of insulin resistance. \
+                Diabetes: Blood sugar levels are higher than 126 mg/dL (fasting) or above 6.5% (HbA1C), indicating that the body is no longer regulating blood sugar effectively. \
+                The key difference lies in reversibility. While diabetes is chronic, prediabetes offers an opportunity for prevention with timely action."
     }
-    // Add more questions as needed
-];
-
+]
 // Chat Functionality
 // Chat Functionality
 const chatBox = document.getElementById("messages");
